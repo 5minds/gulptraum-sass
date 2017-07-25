@@ -1,6 +1,6 @@
 {
   "name": "gulptraum-sass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SASS plugin for gulptraum.",
   "main": "dist/commonjs/index.js",
   "typings": "dist/index.d.ts",
